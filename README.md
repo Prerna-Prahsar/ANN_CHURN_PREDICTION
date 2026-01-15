@@ -89,16 +89,19 @@ The project is divided into **three major parts**:
 
 ---
 
-## 👩‍💻 Author
+👩‍💻 Author
 
-**Prerna Prashar**
+Prerna Prashar
 AIML Student | AI & Machine Learning Enthusiast
 Interested in Deep Learning, NLP, and AI-based web applications
 
-Email : prernaprashar7170@gmail.com
-LinkedIn : www.linkedin.com/in/prerna-parashar-15859728a
-github : https://github.com/Prerna-Prahsar
-Thanks for checking out this project!
+📧 Email: prernaprashar7170@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/prerna-parashar-15859728a
+
+💻 GitHub: https://github.com/Prerna-Prashar
+
+Thanks for checking out this project! ⭐
 ---
 
 ## 📄 License
