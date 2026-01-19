@@ -4,7 +4,7 @@ import pickle
 import tensorflow as tf
 
 # Load trained ANN model
-model = tf.keras.models.load_model("model.h5")
+model = tf.keras.models.load_model("saved_model/model.h5")
 
 # Load preprocessor (ColumnTransformer pipeline)
 with open("saved_model/preprocessor.pkl", "rb") as f:
@@ -52,3 +52,4 @@ if prediction_proba > 0.5:
     st.error("The customer is likely to churn")
 else:
     st.success("The customer is not likely to churn")
+
